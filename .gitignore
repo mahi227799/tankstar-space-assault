@@ -1,0 +1,6 @@
+.idea/
+.venv/
+tankstar_env/
+__pycache__/
+*.pyc
+scores.txt
